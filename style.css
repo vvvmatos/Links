@@ -145,6 +145,11 @@ ul {
   font-size: 10px;
 }
 
+.portfolio:hover:after {
+  content: 'vmport';
+  font-size: 10px;
+}
+
 @media (min-width: 960px) {
   body {
     filter: brightness(90%);
